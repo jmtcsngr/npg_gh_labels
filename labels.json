@@ -1,0 +1,27 @@
+[
+	{
+		"name": "type: bug",
+		"color": "e11d21",
+		"aliases": [
+			"bug"
+		]
+	},
+	{
+		"name": "type: breaking",
+		"color": "990000",
+		"aliases": [
+			"breaking",
+			"breaking-change"
+		]
+	},
+	{
+		"name": "type: maintenance",
+		"color": "fbca04",
+		"aliases": [
+			"maintenance",
+			"refactor",
+			"testing",
+			"test"
+		]
+	}
+]
